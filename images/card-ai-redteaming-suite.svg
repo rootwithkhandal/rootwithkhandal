@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 105" width="100%" height="105" fill="none">
+  <defs>
+    <style>
+      .title { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; font-weight: 600; fill: #ECEEF2; }
+      .tag { font-family: 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace; font-size: 11px; fill: #9BB7D4; text-anchor: end; }
+      .desc { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; fill: #A4ABB8; }
+      .stack { font-family: 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace; font-size: 10.5px; fill: #6D7482; }
+      .arrow { font-size: 12px; fill: #6D7482; }
+    </style>
+  </defs>
+  <rect width="430" height="105" fill="#181A1F" stroke="#2B2F38" stroke-width="1" rx="3" />
+  <text x="18" y="28" class="title">AI Red-Teaming Suite <tspan class="arrow">↗</tspan></text>
+  <text x="412" y="28" class="tag">AI / MLSec</text>
+  <text x="18" y="52" class="desc">Automated prompt-injection and guardrail circumvention testing</text>
+  <text x="18" y="68" class="desc">framework built for large language model safety evaluations.</text>
+  <text x="18" y="90" class="stack">Python · PyRIT · Garak · Ollama · LLMs</text>
+</svg>
