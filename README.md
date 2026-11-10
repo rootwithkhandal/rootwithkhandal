@@ -18,41 +18,26 @@
   <img src="./images/credentials-certificates.svg" alt="Credentials & Certificates" width="100%" />
 </p>
 
-### FEATURED ENGINEERING ARTIFACTS
+<p align="left">
+  <sub><code>▪ FEATURED ENGINEERING ARTIFACTS</code></sub>
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/rootwithkhandal/blackwall">
-        <img src="./images/card-blackwall.svg" width="100%" alt="Blackwall - Defensive SOC" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/rootwithkhandal/threatgrid">
-        <img src="./images/card-threatgrid.svg" width="100%" alt="ThreatGrid - Threat Intel" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/rootwithkhandal/hookshield">
-        <img src="./images/card-hookshield.svg" width="100%" alt="HookShield - Endpoint Detection" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/rootwithkhandal/reconsmith">
-        <img src="./images/card-reconsmith.svg" width="100%" alt="ReconSmith - Offensive Recon" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/rootwithkhandal/Blackwall"><img src="./images/card-blackwall.svg" width="49.2%" alt="Blackwall - Defensive SOC" /></a>
+  <a href="https://github.com/rootwithkhandal/ThreatGrid"><img src="./images/card-threatgrid.svg" width="49.2%" alt="ThreatGrid - Threat Intel" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rootwithkhandal/HookShield"><img src="./images/card-hookshield.svg" width="49.2%" alt="HookShield - Endpoint Detection" /></a>
+  <a href="https://github.com/rootwithkhandal/reconsmith"><img src="./images/card-reconsmith.svg" width="49.2%" alt="ReconSmith - Offensive Recon" /></a>
+</p>
 
 <details>
 <summary><sub>View complete repository directory and backlinks</sub></summary>
 <br/>
 
 | Repository | Scope | Primary Stack | Architecture Summary |
-| --- | --- | --- | --- |
+|---|---|---|---|
 | [Blackwall](https://github.com/rootwithkhandal/Blackwall) | Defensive SOC | Python, Scapy, Streamlit | Mini-SOC with live packet capture, Isolation Forest ML anomaly detection, and webhook triage. |
 | [ThreatGrid](https://github.com/rootwithkhandal/ThreatGrid) | Threat Intel | Go (Zero runtime deps) | Real-time threat map and vulnerability digest compiled as a standalone static binary. |
 | [HookShield](https://github.com/rootwithkhandal/HookShield) | Endpoint Detection | Python, OS Hooks, CLI | Real-time endpoint monitor tracking processes, file hashes, hooks, sockets, and persistence. |
